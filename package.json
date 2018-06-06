@@ -1,0 +1,23 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "Module for parsing csv files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albyzai/csv-parser.git"
+  },
+  "keywords": [
+    "csv",
+    "parser"
+  ],
+  "author": "Jonas Mohr Pedersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albyzai/csv-parser/issues"
+  },
+  "homepage": "https://github.com/Albyzai/csv-parser#readme"
+}
